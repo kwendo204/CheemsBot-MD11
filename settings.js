@@ -19,9 +19,9 @@ global.socialm = "GitHub: Robystis" //ur github or insta name
 global.location = "Afrika, Kenya, Nairobi" //ur location
 
 //new
-global.botname = 'MANOS Bot MD V11' //ur bot name
-global.ownernumber = '254113419479' //ur owner number
-global.ownername = '🦄드림 가이 manos' //ur owner name
+global.botname = 'KWENDOS BOT' //ur bot name
+global.ownernumber = '254717407351' //ur owner number
+global.ownername = '🦄KWENDOWS BOT' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj"
 global.themeemoji = '🪀'
@@ -31,7 +31,7 @@ global.packname = "Sticker By"
 global.author = "🦄Manos\n\n+254113419479"
 global.creator = "254113419479@s.whatsapp.net"
 global.xprefix = ','
-global.premium = ["254113419479"] // Premium User
+global.premium = ["254717407351"] // Premium User
 global.hituet = 0
 
 //bot sett
