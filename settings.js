@@ -28,7 +28,7 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/Robystis/ManosBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "🦄Manos\n\n+254113419479"
+global.author = "🦄KWENDO\n\n+254113419479"
 global.creator = "254113419479@s.whatsapp.net"
 global.xprefix = ','
 global.premium = ["254717407351"] // Premium User
@@ -41,7 +41,7 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
