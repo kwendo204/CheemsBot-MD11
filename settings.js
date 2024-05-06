@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by Wagwans
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
+//YouTube: @Wagwans
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//GitHub: @Wagwans
+//WhatsApp: +254717407351
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Wagwans
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,23 +14,23 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Nickmerlin" //ur yt chanel name
-global.socialm = "GitHub: Robystis" //ur github or insta name
-global.location = "Afrika, Kenya, Nairobi" //ur location
+global.ytname = "YT: Xeon" //ur yt chanel name
+global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.location = "Nairobi,Kenya" //ur location
 
 //new
-global.botname = 'KWENDOS BOT' //ur bot name
+global.botname = '🦄💋KWENDOS BOT🦄🦄👀' //ur bot name
 global.ownernumber = '254717407351' //ur owner number
-global.ownername = '🦄KWENDOWS BOT' //ur owner name
+global.ownername = '🦄드림 가이 KWENDO' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/Robystis/ManosBot-MD11' //script link
+global.wagc = "https://chat.whatsapp.com/ECskg7L0Dn4HAr7XFh2Trp"
+global.themeemoji = '🪀👀'
+global.wm = "Wagwans Bot Inc."
+global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "🦄KWENDO\n\n+254113419479"
-global.creator = "254113419479@s.whatsapp.net"
-global.xprefix = ','
+global.author = "🦄드림 가이 KWENDO\n\n+254717407351"
+global.creator = "254717407351@s.whatsapp.net"
+global.xprefix = '.'
 global.premium = ["254717407351"] // Premium User
 global.hituet = 0
 
