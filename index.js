@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by Wagwans
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
+//YouTube: @Wagwans
+//Instagram: unicorn_wagwans
+//Telegram: t.me/wagwans
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +254717407351
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const {
